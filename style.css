@@ -1,3 +1,4 @@
+
 h1 {
     color:salmon;
    background: grey;
@@ -6,4 +7,8 @@ h1 {
 li {
     color:green;
     text-align: justify;
+    background: hotpink;
+}
+nav{
+    background: image-set(11);
 }
