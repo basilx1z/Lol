@@ -4,11 +4,9 @@ h1 {
    background: grey;
     text-align: center;
 }
-li {
-    color:green;
-    text-align: justify;
-    background: hotpink;
+
 }
 nav{
     background: image-set(11);
+    background: indigo;
 }
